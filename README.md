@@ -18,11 +18,11 @@ The Temu Link Bot Software is a revolutionary tool that helps you improve your o
 5. Close the app and then reopen your browser.
 6. Click on the link again and the software will begin uploading bots.
 7. Paste your link and watch as the bots start rolling in.
-
+https://temu.com/s/ahCmWsQ4921zl
 ## System Requirements
 
 - An internet connection
-
+Bell652
 ## Feedback and Contributions
 
 We welcome feedback and contributions from users and developers. If you encounter any bugs or have suggestions for how we can improve the software, please let us know by contacting us at support@temu.com. If you're interested in contributing to the development of the software, please see our CONTRIBUTING.md file for more information.

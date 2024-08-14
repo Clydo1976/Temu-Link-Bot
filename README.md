@@ -1,4 +1,4 @@
-# Temu Link Bot Software
+#install Temu Link Bot Software
 
 The Temu Link Bot Software is a revolutionary tool that helps you improve your online traffic and engagement. Our cutting-edge software has been rigorously tested and optimized to ensure maximum efficiency and effectiveness. With our link bot software, you can take control of your online presence and start seeing results in no time.
 
